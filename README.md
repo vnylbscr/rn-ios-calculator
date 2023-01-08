@@ -18,7 +18,7 @@ Clone the repo and run `yarn install` to install the dependencies.
 ## Screenshots
 
 
-#iOS
+### iOS
 
 https://user-images.githubusercontent.com/24382252/211196403-de9b9c27-de36-46bb-97e4-ee722917fe01.mov
 
@@ -27,7 +27,7 @@ https://user-images.githubusercontent.com/24382252/211196403-de9b9c27-de36-46bb-
 
 <img src="https://user-images.githubusercontent.com/24382252/211196449-25a38e69-a1ec-4a10-8aab-bc84f0747515.png" width="230" height="500">
 
-# Android 
+### Android 
 
 <img src="https://user-images.githubusercontent.com/24382252/211196496-4e446459-c7bd-45de-888b-b0a0d7db92d3.png" width="230" height="500">
 

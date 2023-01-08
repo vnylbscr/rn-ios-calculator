@@ -25,14 +25,14 @@ const ResultText = styled.Text`
 `;
 
 const ResultArea: React.FC<Props> = ({ count, onPress }) => {
-  const touchY = React.useRef(0);
+  const touchX = React.useRef(0);
 
   return (
     <Container>
       <InnerContainer
-        onTouchStart={(e) => (touchY.current = e.nativeEvent.locationX)}
+        onTouchStart={(e) => (touchX.current = e.nativeEvent.locationX)}
         onTouchEnd={(e) => {
-          const diff = e.nativeEvent.locationX - touchY.current;
+          const diff = e.nativeEvent.locationX - touchX.current;
           if (Math.abs(diff) > 50) {
             onPress();
           }
