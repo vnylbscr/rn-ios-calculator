@@ -1,6 +1,7 @@
 import { useCallback, useEffect, useState } from 'react';
 import { Operation } from '../lib/calculator-buttons';
-
+import 'intl';
+import 'intl/locale-data/jsonp/en';
 /**
  * Whether the operation is a single operation or not.
  *
