@@ -22,7 +22,7 @@ Clone the repo and run `yarn install` to install the dependencies.
 
 https://user-images.githubusercontent.com/24382252/211196403-de9b9c27-de36-46bb-97e4-ee722917fe01.mov
 
-
+<img src="https://user-images.githubusercontent.com/24382252/211196784-5ffb15c4-c798-4a18-b30d-45d8ff42706b.png" width="230" height="500">
 <img src="https://user-images.githubusercontent.com/24382252/211196445-0d138a0c-39f9-4ec0-a76b-99716318a7bb.png" width="230" height="500">
 
 <img src="https://user-images.githubusercontent.com/24382252/211196449-25a38e69-a1ec-4a10-8aab-bc84f0747515.png" width="230" height="500">
